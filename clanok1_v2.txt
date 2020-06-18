@@ -6,9 +6,9 @@ Datum: 20/6/2020
 2 uvod doplnim
 3 uvod dopknim
 ----
-1
-2
-3
+1 obsah
+2 obsah
+3 obsah
 ----
 1
 2
