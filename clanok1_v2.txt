@@ -2,9 +2,9 @@ Autor: Alexandra Šutaková
 Nazov: Nazov prveho clanku
 Datum: 20/6/2020
 ----
-1 uvod
-2 uvod
-3 uvod
+1 uvod doplnim
+2 uvod doplnim
+3 uvod dopknim
 ----
 1
 2
